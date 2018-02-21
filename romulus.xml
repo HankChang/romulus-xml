@@ -5296,6 +5296,13 @@
 	</property>
 </globalSetting>
 <globalSetting>
+	<id>/sys-0/node-0/apss_fault_sensor</id>
+	<property>
+	<id>IPMI_SENSOR_ID</id>
+	<value></value>
+	</property>
+</globalSetting>
+<globalSetting>
 	<id>/sys-0/node-0/motherboard-0</id>
 	<property>
 	<id>IPMI_INSTANCE</id>
@@ -5344,6 +5351,10 @@
 </globalSetting>
 <globalSetting>
 	<id>/sys-0/node-0/motherboard-0/bmc-0</id>
+	<property>
+	<id>FRU_ID</id>
+	<value></value>
+	</property>
 	<property>
 	<id>IPMI_INSTANCE</id>
 	<value></value>
@@ -5412,7 +5423,7 @@
 	</property>
 	<property>
 	<id>FRU_NAME</id>
-	<value></value>
+	<value>DIMM3</value>
 	</property>
 	<property>
 	<id>IPMI_INSTANCE</id>
@@ -5508,7 +5519,7 @@
 	</property>
 	<property>
 	<id>FRU_NAME</id>
-	<value></value>
+	<value>DIMM4</value>
 	</property>
 	<property>
 	<id>IPMI_INSTANCE</id>
@@ -5597,7 +5608,7 @@
 	</property>
 	<property>
 	<id>FRU_NAME</id>
-	<value></value>
+	<value>DIMM9</value>
 	</property>
 	<property>
 	<id>IPMI_INSTANCE</id>
@@ -5693,7 +5704,7 @@
 	</property>
 	<property>
 	<id>FRU_NAME</id>
-	<value></value>
+	<value>DIMM10</value>
 	</property>
 	<property>
 	<id>IPMI_INSTANCE</id>
@@ -5782,7 +5793,7 @@
 	</property>
 	<property>
 	<id>FRU_NAME</id>
-	<value></value>
+	<value>DIMM14</value>
 	</property>
 	<property>
 	<id>IPMI_INSTANCE</id>
@@ -5871,7 +5882,7 @@
 	</property>
 	<property>
 	<id>FRU_NAME</id>
-	<value></value>
+	<value>DIMM13</value>
 	</property>
 	<property>
 	<id>IPMI_INSTANCE</id>
@@ -5960,7 +5971,7 @@
 	</property>
 	<property>
 	<id>FRU_NAME</id>
-	<value></value>
+	<value>DIMM16</value>
 	</property>
 	<property>
 	<id>IPMI_INSTANCE</id>
@@ -6049,7 +6060,7 @@
 	</property>
 	<property>
 	<id>FRU_NAME</id>
-	<value></value>
+	<value>DIMM15</value>
 	</property>
 	<property>
 	<id>IPMI_INSTANCE</id>
@@ -6138,7 +6149,7 @@
 	</property>
 	<property>
 	<id>FRU_NAME</id>
-	<value></value>
+	<value>DIMM1</value>
 	</property>
 	<property>
 	<id>IPMI_INSTANCE</id>
@@ -6227,7 +6238,7 @@
 	</property>
 	<property>
 	<id>FRU_NAME</id>
-	<value></value>
+	<value>DIMM2</value>
 	</property>
 	<property>
 	<id>IPMI_INSTANCE</id>
@@ -6316,7 +6327,7 @@
 	</property>
 	<property>
 	<id>FRU_NAME</id>
-	<value></value>
+	<value>DIMM6</value>
 	</property>
 	<property>
 	<id>IPMI_INSTANCE</id>
@@ -6405,7 +6416,7 @@
 	</property>
 	<property>
 	<id>FRU_NAME</id>
-	<value></value>
+	<value>DIMM5</value>
 	</property>
 	<property>
 	<id>IPMI_INSTANCE</id>
@@ -6494,7 +6505,7 @@
 	</property>
 	<property>
 	<id>FRU_NAME</id>
-	<value></value>
+	<value>DIMM8</value>
 	</property>
 	<property>
 	<id>IPMI_INSTANCE</id>
@@ -6583,7 +6594,7 @@
 	</property>
 	<property>
 	<id>FRU_NAME</id>
-	<value></value>
+	<value>DIMM7</value>
 	</property>
 	<property>
 	<id>IPMI_INSTANCE</id>
@@ -6672,7 +6683,7 @@
 	</property>
 	<property>
 	<id>FRU_NAME</id>
-	<value></value>
+	<value>DIMM11</value>
 	</property>
 	<property>
 	<id>IPMI_INSTANCE</id>
@@ -6761,7 +6772,7 @@
 	</property>
 	<property>
 	<id>FRU_NAME</id>
-	<value></value>
+	<value>DIMM12</value>
 	</property>
 	<property>
 	<id>IPMI_INSTANCE</id>
@@ -6985,6 +6996,13 @@
 	<property>
 	<id>IPMI_SENSOR_ID</id>
 	<value>0x06</value>
+	</property>
+</globalSetting>
+<globalSetting>
+	<id>/sys-0/node-0/motherboard-0/proc_socket-0/module-0/p9_proc_s/eq0/ex0/core0</id>
+	<property>
+	<id>IPMI_INSTANCE</id>
+	<value></value>
 	</property>
 </globalSetting>
 <globalSetting>
